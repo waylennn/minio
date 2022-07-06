@@ -30,5 +30,6 @@ import (
 )
 
 func main() {
+	// test
 	minio.Main(os.Args)
 }
